@@ -1,4 +1,4 @@
-# SPHERE: Scientific Paper Hierarchical Entity and Relation Extraction
+# SPHERE: Scientific Multidomain Large Entity and Relation Extraction
 
 SPHERE is a large-scale, multi-domain benchmark dataset for hierarchical relation extraction from scientific text. It is designed to train and evaluate models that construct structured knowledge graphs from scientific literature, capturing not just flat entity-relation triples but deep hierarchical dependencies between concepts.
 
